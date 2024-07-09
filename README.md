@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm HARSH SINGH</h1>
 
-<h3 align="center">A passionate Software developer Student from India</h3>
+<h3 align="center">A passionate Software Developer Student from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/harsh-singh-06672621b/](https://www.linkedin.com/in/harsh-singh-06672621b/)
 
