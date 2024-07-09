@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<img src="https://github.com/Harshsingh2340/Harshsingh2340/assets/101996864/f738e443-1147-4be5-9810-6be09bd39261" alt="photo" width="200" height="200">
-
+<div align="center">
+    <img src="https://github.com/Harshsingh2340/Harshsingh2340/assets/101996864/f738e443-1147-4be5-9810-6be09bd39261" alt="photo" width="200" height="200">
+</div>
 
 <h1 align="center">Hi 👋, I'm HARSH SINGH</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/harsh-singh-06672621b/](https://www.linkedin.com/in/harsh-singh-06672621b/)
