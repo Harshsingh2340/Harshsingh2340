@@ -12,6 +12,7 @@
 
 - 📫 How to reach me **baghelharshsingh41@gmail.com**
 - This is my Portfilio website at [https://portfolio-emsn.vercel.app/]
+- another Portfilio website at [https://harshsingh2340.github.io/resume/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
