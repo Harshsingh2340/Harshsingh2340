@@ -14,6 +14,26 @@
 - This is my Portfilio website at [https://portfolio-emsn.vercel.app/]
 - another Portfilio website at [https://harshsingh2340.github.io/resume/]
 
+<h3 align="left">Projects:</h3>
+<div>
+  <!-- Project 1 -->
+  <h4><a href="https://github.com/Harshsingh2340/music-player">🎵 Music Player</a></h4>
+  <p>A fully functional music player built using HTML, CSS, and JavaScript with custom UI and smooth playback features.</p>
+
+  <!-- Project 2 -->
+  <h4><a href="https://github.com/Harshsingh2340/gpt-tool">🤖 GPT-Powered Tool</a></h4>
+  <p>Developed a GPT-based tool to provide intelligent, automated responses for various tasks, built using Python and OpenAI APIs.</p>
+
+  <!-- Project 3 -->
+  <h4><a href="https://github.com/Harshsingh2340/icc-t20-analytics">📊 ICC T20 World Cup Analytics</a></h4>
+  <p>An analytics project that uses Python, R, and SQL to analyze and visualize cricket data for the ICC T20 World Cup 2022.</p>
+
+  <!-- Project 4 -->
+  <h4><a href="https://portfolio-emsn.vercel.app/">🌐 Portfolio Website</a></h4>
+  <p>Interactive personal portfolio built with HTML, CSS, and JavaScript, showcasing projects, skills, and achievements.</p>
+</div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harsh-singh-06672621b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-singh-06672621b/" height="30" width="40" /></a>
