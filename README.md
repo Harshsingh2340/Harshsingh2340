@@ -21,9 +21,12 @@
   <p>An analytics project that uses Python, R, and SQL to analyze and visualize cricket data for the ICC T20 World Cup 2022.</p>
 
   <!-- Project 4 -->
-  <h4><img src = "![image](https://github.com/user-attachments/assets/cf93a961-da84-45ac-bc76-dc731770da99)
-"><a href="https://portfolio-emsn.vercel.app/">🌐 Portfolio Website</a></h4>
-  <p>Interactive personal portfolio built with HTML, CSS, and JavaScript, showcasing projects, skills, and achievements.</p>
+ <h4>
+  <img src="https://github.com/user-attachments/assets/cf93a961-da84-45ac-bc76-dc731770da99" alt="Portfolio Image" width="200px"> <!-- Add width for better display -->
+  <a href="https://portfolio-emsn.vercel.app/" target="_blank">🌐 Portfolio Website</a>
+</h4>
+<p>Interactive personal portfolio built with HTML, CSS, and JavaScript, showcasing projects, skills, and achievements.</p>
+
 
 <h4><a href="https://harshsingh2340.github.io/musicplayer/">🎵 Music Player</a></h4>
   <p>A fully functional music player built using HTML, CSS, and JavaScript with custom UI and smooth playback features.</p>
